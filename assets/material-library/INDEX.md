@@ -1,12 +1,26 @@
 # 创作素材库 · 总索引
 
-> 更新日期：2026-04-22
+> 更新日期：2026-04-23
 > 素材总数：76条
-> 最近更新：初始建库
+> 最近更新：整合拆文参考，新增功能目录(技法库/结构库/风格库/商业库/拆文记录)
 
 ---
 
-## 📊 素材统计
+## 📂 素材库双重组织
+
+素材库支持两种浏览方式：
+
+### 按功能组织（推荐创作时使用）
+
+| 功能库 | 说明 | 入口 |
+|---|---|---|
+| **技法库** techniques/ | "怎么写"的方法论 | `techniques/INDEX.md` |
+| **结构库** structures/ | "写什么"的框架模板 | `structures/INDEX.md` |
+| **风格库** styles/ | "用什么声音写" | `styles/INDEX.md` |
+| **商业库** commerce/ | "怎么卖"的市场策略 | `commerce/INDEX.md` |
+| **拆文记录** analysis/ | 单作品拆文分析存档 | `analysis/INDEX.md` |
+
+### 按分类存储（原始素材数据）
 
 | 类别 | 素材数 | 文件路径 | 评分范围 |
 |---|---|---|---|
@@ -25,6 +39,21 @@
 | 结尾模板 | 5 | `endings/catalog.md` | 8-9 |
 | 名场面 | 5 | `iconic-scenes/catalog.md` | 8-9 |
 | 语言风格 | 5 | `language-styles/catalog.md` | 8-9 |
+
+### 创作问题 → 素材检索映射
+
+| 创作问题 | 检索方向 |
+|---|---|
+| "开篇不知道怎么写" | techniques/ → opening-patterns |
+| "爽感不足" | techniques/ → pacing-techniques + satisfaction-points |
+| "对话千篇一律" | techniques/ → dialogue-tricks |
+| "不知道怎么埋伏笔" | techniques/ → foreshadowing |
+| "力量体系没辨识度" | structures/ → power-systems |
+| "核心矛盾太弱" | structures/ → world-contradictions |
+| "角色没辨识度" | structures/ → character-arcs |
+| "节奏太慢/太快" | techniques/ → pacing-techniques |
+| "追读率低" | commerce/ → reader-psychology |
+| "不知道怎么定价/转化" | commerce/ → conversion-strategies |
 
 ---
 
